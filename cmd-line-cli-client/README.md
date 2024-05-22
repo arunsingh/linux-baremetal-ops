@@ -1,5 +1,5 @@
 <h1 id="designing-a-command-line-client">Designing a command-line client</h1>
-<h4 id="cli-client-http-api-for-provisioning-linux-bare-metal-servers-and-networking-devices-involves-several-key-components-well-use-fastapi-for-the-http-api-and-a-simple-python-script-for-the-command-line-client-heres-how-you-can-approach-this-task-including-code-examples-and-documentation">CLI client HTTP API for provisioning Linux bare metal servers and networking devices involves several key components. We&#39;ll use FastAPI for the HTTP API and a simple Python script for the command-line client. Here’s how you can approach this task, including code examples and documentation.</h4>
+<h4 id="cli-client-http-api-for-provisioning-linux-bare-metal-servers-and-networking-devices-involves-several-key-components-well-use-fastapi-for-the-http-api-and-a-simple-python-script-for-the-command-line-client-heres-how-you-can-approach-this-task-including-code-examples-and-documentation">CLI client HTTP API for provisioning Linux bare metal servers and networking devices involves several key components. We&#39;ll use FastAPI for the HTTP API and a simple Python script for the command-line client.</h4>
 <h2 id="system-overview">System Overview</h2>
 <p>The system consists of:</p>
 <ol>
