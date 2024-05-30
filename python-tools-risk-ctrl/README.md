@@ -7,7 +7,7 @@
 <p>2. **Command Executor**: A module to execute the disconnection commands securely.</p>
 <p>3. **Notification System**: For sending alerts and logs after executing critical actions.</p>
 <p>### Python Implementation</p>
-<p>Here’s a simplified Python implementation of such a tool:</p>
+<p>Python implementation tool:</p>
 <p>#### Dependencies</p>
 <p>First, install necessary Python libraries, if not already available:</p>
 <p><code>pip install requests</code></p>
